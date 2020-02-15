@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pavan{1..5}
+sudo pavan{1..6}
