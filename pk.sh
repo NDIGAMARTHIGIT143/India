@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo pavan{1..6}
+sudo touch pavan{1..7}
+
